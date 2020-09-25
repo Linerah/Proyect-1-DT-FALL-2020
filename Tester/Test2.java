@@ -1,12 +1,7 @@
-package edu.uprm.ece.icom4035.polynomial.junit;
-
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
-
-import edu.uprm.ece.icom4035.polynomial.Polynomial;
-import edu.uprm.ece.icom4035.polynomial.PolynomialImp;
 
 public class Test2 {
  
