@@ -1,5 +1,3 @@
-package edu.uprm.ece.icom4035.polynomial;
-
 import java.util.Iterator;
 
 public interface Polynomial extends Iterable<Term> {
